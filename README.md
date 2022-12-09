@@ -32,3 +32,10 @@ To run the notebook:
 ```
 jupyter notebook
 ```
+
+![Copy_of_Red_Wine_Blog_Post_Header](https://user-images.githubusercontent.com/77986516/206748555-3408fd2b-dcc6-477e-9ecd-83ecb233c94a.png)
+
+
+
+
+
